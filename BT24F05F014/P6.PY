@@ -4,6 +4,6 @@ for i in range(1, 6):
 
 # While loop
 i = 1
-while i <= 5:
+while i <= 6:
     print(i)
     i += 1
