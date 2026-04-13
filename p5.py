@@ -1,3 +1,4 @@
+# my lab submission
 marks = int(input("Enter marks (0-100): "))
 if marks >= 90:
     grade = 'O (Outstanding)'
